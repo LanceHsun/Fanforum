@@ -1,0 +1,3 @@
+.article-container {
+  width: 80%!important; /* !important 确保覆盖任何其他宽度样式 */
+}
